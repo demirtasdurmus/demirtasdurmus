@@ -6,8 +6,5 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=demirtasdurmus@gmail.com)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durmuş-demirtaş-793a981ab/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=demirtasdurmus&count_private=true&show_icons=true&theme=merko" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirtasdurmus&layout=compact&theme=merko" />
-
 ![](https://komarev.com/ghpvc/?username=demirtasdurmus)
 <br>
